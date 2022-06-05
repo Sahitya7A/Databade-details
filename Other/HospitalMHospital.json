@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5f758db9f4c6fb88412912cd"},"hid":10.0,"name":"Care Hospital","address":"123/7RT,Hno-1563,Main Road,Banjara Hills","location":"17.398644, 78.484334","contact":9.879879879e+09}
+{"_id":{"$oid":"5f758eb4f4c6fb88412912ce"},"hid":11.0,"name":"JayaBhushan Hospital","address":"1/7RT,Hno-17963,Post office Road,Uppal","location":"15.398644, 79.484334","contact":9.898987789e+09}
+{"_id":{"$oid":"5f758f20f4c6fb88412912cf"},"hid":12.0,"name":"Nice Hospital","address":"56/2RT,Hno-1583,St Ann's School road,Masabtank","location":"27.398644, 95.484734","contact":9.998887771e+09}
+{"_id":{"$oid":"5f758f66f4c6fb88412912d0"},"hid":133.0,"name":"Rohan Hospital","address":"10-03-253,Hno-72,St Ann's College road,Mehidapatnam","location":"17.398644, 78.485334","contact":9.991177722e+09}
+{"_id":{"$oid":"5f758fb3f4c6fb88412912d1"},"hid":14.0,"name":"Rainbow Hospital","address":"10-03-273/52,Hno-976,Opp Bank Of Baorada,Punjagutta","location":"17.398699, 78.482134","contact":9.696963214e+09}
