@@ -1,0 +1,5 @@
+{"_id":{"$oid":"61d0ab8d9ec50d681f396c67"},"name":"Admin","email":"Thanjavur_Avadhih@gmail.com","password":"$2b$10$roXCC1WCm7CTpRvP1jJ5N.PSdesfTCbnLNMTMmSZhbrfQL2e62EEO","date":{"$date":"2022-01-01T19:29:17.802Z"},"__v":0}
+{"_id":{"$oid":"61d0c2f9665a614ee8e8f135"},"name":"Sahitya","email":"sahitya@gmail.com","password":"$2b$10$Q7MiWwwi/OlU2k5/L/qWj.gFp.Sb6nFvImA7CU9.zhJiKGg0ny12u","date":{"$date":"2022-01-01T21:09:13.548Z"},"__v":0}
+{"_id":{"$oid":"626b2f687710e82d3b0c5856"},"name":"sahithya9272","email":"sahithya@opentext.com","password":"$2b$10$S2u1hZtNvJRpN1Ndlz8H.eqPg3C/.IJMJ3UoYFKgH4x7ic2Z4WtX6","date":{"$date":"2022-04-29T00:20:56.377Z"},"__v":0}
+{"_id":{"$oid":"62759babc969a1426f9924b5"},"name":"Sahithya_KMIT","email":"tsahithyakmit@gmail.com","password":"$2b$10$Xw7/keRXLnRhgtm5Ujx74u8ByPDARXoE2jsrgLuPz3wu3dKMukoxi","cart":0,"date":{"$date":"2022-05-06T22:05:31.236Z"},"__v":0,"cusid":"cus_LdoEz15XIZJ7rh"}
+{"_id":{"$oid":"629b0437956f6949c30ac6ad"},"name":"Fips_User","email":"sahithya.tirumalasetty@gmail.com","password":"$2b$10$jRRFtKHDRNjmoE9LcLVQrO/6a1iQb1bgzrH4mwiu0VvymNu1K3QD2","cart":0,"date":{"$date":"2022-06-04T07:05:27.924Z"},"__v":0}
